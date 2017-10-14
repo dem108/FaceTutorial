@@ -119,10 +119,7 @@ namespace FaceTutorial
                 // Set the status bar text.
                 faceDescriptionStatusBar.Text = "Place the mouse pointer over a face to see the face description.";
             }
-
-
-
-
+            
         }
 
         // Returns a string that describes the given face.
